@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkcX9MZtLvT0uEtrnyd1URs7f6XQ/CZ+d2ptZSuKw2BvfXphYUs4VPfaxn53afNxLEoB3Jy7XABpfZ19YNbL0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orange\\Desktop\\ProyectosAisak\\JWToken\\JWToken.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\8.0.1\\microsoft.aspnetcore.webutilities.8.0.1.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.2.0\\microsoft.identitymodel.abstractions.7.2.0.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.2.0\\microsoft.identitymodel.jsonwebtokens.7.2.0.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.identitymodel.logging\\7.2.0\\microsoft.identitymodel.logging.7.2.0.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.2.0\\microsoft.identitymodel.tokens.7.2.0.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\microsoft.net.http.headers\\8.0.1\\microsoft.net.http.headers.8.0.1.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.2.0\\system.identitymodel.tokens.jwt.7.2.0.nupkg.sha512",
+    "C:\\Users\\orange\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
